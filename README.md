@@ -2,7 +2,6 @@
 
 ## Opa 👋
 Sempre gostei das alternativas que a área de desenvolvimento de sistema nos proporciona para resolver problemas do nosso dia a dia.
-Sou FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Engineering do Brasil**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Java :coffee: e no Front-end utilizando React.
